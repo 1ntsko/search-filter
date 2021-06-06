@@ -1,0 +1,16 @@
+.user {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+input {
+  width: 30%;
+  margin: auto;
+  height: 40px;
+}
